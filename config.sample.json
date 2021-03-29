@@ -5,5 +5,6 @@
   "refresh_token": "my_token",
   "start_date": "2017-01-01T00:00:00Z",
   "disable_collection": false,
-  "skip_property_extras_and_versions": false
+  "skip_property_extras_and_versions": false,
+  "include_inactives": false
 }
